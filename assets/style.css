@@ -16,7 +16,7 @@ h1 {
   background-color: #1acb98;
 }
 
-section + .container img {
+section + .container-fluid img {
   padding: 1rem;
   background-color: #ffeeda;
   border-radius: 50%;
